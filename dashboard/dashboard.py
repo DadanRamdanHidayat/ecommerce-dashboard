@@ -114,7 +114,7 @@ with st.sidebar:
         page = "📊 Overview"
 
     st.markdown("---")
-    st.markdown("<small>© 2024 E-Commerce Analytics</small>", unsafe_allow_html=True)
+    st.markdown("<small>© 2026 E-Commerce Analytics</small>", unsafe_allow_html=True)
 
 # ── Filter data berdasarkan tanggal ──────────────────────────────────────────
 if data_loaded:
